@@ -1,0 +1,12 @@
+{
+  "name": "openrct2-automarketing-1.0.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/openrct2": "^0.4.0"
+  }
+}
